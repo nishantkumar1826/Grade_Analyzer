@@ -21,8 +21,7 @@ It supports both **manual input** and **CSV file input**, making it useful for t
 📊 Statistics | Calculates Average, Median, Highest & Lowest marks  
 🏅 Grade System | Automatic grade assignment (A–F)  
 ✅ Pass/Fail Filter | Produced using list comprehension  
-📋 Results Display | Clean table formatted using Python f-strings  
-💾 Export Results | Can export final grades to CSV  
+📋 Results Display | Clean table formatted using Python f-strings    
 🔁 Menu System | Run again without restarting program  
 
 ---
